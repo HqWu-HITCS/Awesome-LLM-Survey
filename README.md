@@ -14,10 +14,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Hallucination in LLM](#hallucination-in-llm)
     - [Multimodal LLM](#multimodal-llm)
     - [Code LLM](#code-llm)
-    - [Compression LLM](#compression-llm)
+    - [Compression for LLM](#compression-for-llm)
     - [Evaluation of LLM](#evaluation-of-llm)
     - [Reasoning with LLM](#reasoning-with-llm)
     - [LLM for Recommendation](#llm-for-recommendation)
+    - [LLM for IR](#llm-for-ir)
 
 
 ### General Survey
@@ -53,7 +54,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Code LLM
 - [Large Language Models Meet NL2Code: A Survey](https://arxiv.org/abs/2212.09420)
 
-### Compression LLM
+### Compression for LLM
 - [A Survey on Model Compression for Large Language Models](https://arxiv.org/abs/2308.07633)
 
 ### Evaluation of LLM
@@ -64,3 +65,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Recommendation
 - [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/abs/2309.01157)
+- [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/2306.05817)
+
+### LLM for IR
+- [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/abs/2308.07107)

@@ -12,6 +12,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Retrieval-Augmented LLM](#retrieval-augmented-llm)
     - [LLM Agent](#llm-agent)
     - [Hallucination in LLM](#hallucination-in-llm)
+    - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
     - [Multimodal LLM](#multimodal-llm)
     - [Code LLM](#code-llm)
     - [Compression for LLM](#compression-for-llm)
@@ -47,6 +48,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - A Survey of Hallucination in “Large” Foundation Models [[paper]](https://arxiv.org/paper/2309.05922)[[project]](https://github.com/vr25/hallucination-foundation-model-survey)
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219)[[project]](https://arxiv.org/abs/2309.01219)
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models [[paper]](https://arxiv.org/paper/2309.06794.paper)[[project]](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)
+
+### Knowledge Editing for LLM
+- Editing Large Language Models: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
 
 ### Multimodal LLM
 - A Survey on Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2306.13549)[[project]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)

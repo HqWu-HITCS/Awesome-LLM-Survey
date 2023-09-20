@@ -42,7 +42,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - A Survey on Retrieval-Augmented Text Generation [[paper]](https://arxiv.org/abs/2202.01110)
 
 ### LLM Agent
-- the Rise and Potential of Large Language Model Based Agents: A Survey [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+- The Rise and Potential of Large Language Model Based Agents: A Survey [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+- A Survey on Large Language Model based Autonomous Agents [[paper]](https://arxiv.org/abs/2308.11432)[[project]](https://github.com/Paitesanshi/LLM-Agent-Survey)
 
 ### Hallucination in LLM
 - A Survey of Hallucination in “Large” Foundation Models [[paper]](https://arxiv.org/paper/2309.05922)[[project]](https://github.com/vr25/hallucination-foundation-model-survey)

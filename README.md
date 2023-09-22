@@ -18,8 +18,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Compression for LLM](#compression-for-llm)
     - [Evaluation of LLM](#evaluation-of-llm)
     - [Reasoning with LLM](#reasoning-with-llm)
+    - [Explainability for LLM](#explainability-for-llm)
     - [LLM for Recommendation](#llm-for-recommendation)
-    - [LLM for IR](#llm-for-ir)
+    - [LLM for Information Retrieval](#llm-for-information-retrieval)
 
 
 ### General Survey
@@ -68,9 +69,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Reasoning with LLM
 - Reasoning with Language Model Prompting: A Survey [[paper]](https://arxiv.org/abs/2212.09597)[[project]](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
+### Explainability for LLM
+- Explainability for Large Language Models: A Survey [[paper]](https://arxiv.org/abs/2309.01029)
+
 ### LLM for Recommendation
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions [[paper]](https://arxiv.org/abs/2309.01157)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey [[paper]](https://arxiv.org/abs/2306.05817)[[project]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
 
-### LLM for IR
+### LLM for Information Retrieval
 - Large Language Models for Information Retrieval: A Survey [[paper]](https://arxiv.org/abs/2308.07107)[[project]](https://github.com/RUC-NLPIR/LLM4IR-Survey)

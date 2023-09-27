@@ -35,6 +35,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Human Alignment for LLM
 - From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Model [[paper]](https://arxiv.org/abs/2308.12014)[[project]](https://github.com/ValueCompass/Alignment-Goal-Survey)
 - Aligning Large Language Models with Human: A Survey [[paper]](https://arxiv.org/abs/2307.12966)[[project]](https://github.com/GaryYufei/AlignLLMHumanSurvey)
+- Large Language Model Alignment: A Survey [[paper]](https://arxiv.org/abs/2309.15025)
 
 ### Catastrophic Forgetting
 - Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models [[paper]](https://arxiv.org/abs/2309.06256)

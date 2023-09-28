@@ -19,6 +19,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Evaluation of LLM](#evaluation-of-llm)
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
+    - [Fairness in LLM](#fairness-in-llm)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
 
@@ -72,6 +73,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Explainability for LLM
 - Explainability for Large Language Models: A Survey [[paper]](https://arxiv.org/abs/2309.01029)
+
+### Fairness in LLM
+- A Survey on Fairness in Large Language Models [[paper]](https://arxiv.org/abs/2308.10149)
 
 ### LLM for Recommendation
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions [[paper]](https://arxiv.org/abs/2309.01157)

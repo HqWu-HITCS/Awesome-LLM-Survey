@@ -22,6 +22,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Fairness in LLM](#fairness-in-llm)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
+    - [Application of LLM](#application-of-llm)
 
 
 ### General Survey
@@ -83,3 +84,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Information Retrieval
 - Large Language Models for Information Retrieval: A Survey [[paper]](https://arxiv.org/abs/2308.07107)[[project]](https://github.com/RUC-NLPIR/LLM4IR-Survey)
+
+### Application of LLM
+- Large AI Models in Health Informatics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)

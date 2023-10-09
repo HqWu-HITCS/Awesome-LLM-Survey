@@ -20,9 +20,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
+    - [LLM for Domain Application](#llm-for-domain-application)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
-    - [Application of LLM](#application-of-llm)
+    - [LLM for Software Engineering](#llm-for-software-engineering)
 
 
 ### General Survey
@@ -78,6 +79,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models [[paper]](https://arxiv.org/abs/2308.10149)
 
+### LLM for Domain Application
+- Large AI Models in Health Informatics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+
 ### LLM for Recommendation
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions [[paper]](https://arxiv.org/abs/2309.01157)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey [[paper]](https://arxiv.org/abs/2306.05817)[[project]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
@@ -85,5 +89,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Information Retrieval
 - Large Language Models for Information Retrieval: A Survey [[paper]](https://arxiv.org/abs/2308.07107)[[project]](https://github.com/RUC-NLPIR/LLM4IR-Survey)
 
-### Application of LLM
-- Large AI Models in Health Informatics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+### LLM for Software Engineering
+- Large Language Models for Software Engineering: Survey and Open Problems [[paper]](https://arxiv.org/abs/2310.03533)
+- Large Language Models for Software Engineering: A Systematic Literature Review [[paper]](https://arxiv.org/abs/2308.10620)

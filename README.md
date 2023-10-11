@@ -9,6 +9,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Instruction Tuning](#instruction-tuning)
     - [Human Alignment for LLM](#human-alignment-for-llm)
     - [Catastrophic Forgetting](#catastrophic-forgetting)
+    - [Chain of Thought for LLM](#chain-of-thought-for-llm)
     - [Retrieval-Augmented LLM](#retrieval-augmented-llm)
     - [LLM Agent](#llm-agent)
     - [Hallucination in LLM](#hallucination-in-llm)
@@ -41,7 +42,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Large Language Model Alignment: A Survey [[paper]](https://arxiv.org/abs/2309.15025)
 
 ### Catastrophic Forgetting
-- Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models [[paper]](https://arxiv.org/abs/2309.06256)
+- Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models [[paper]](https://arxiv.org/abs/2309.15402)
+
+### Chain of Thought for LLM
+- A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future [[paper]](https://arxiv.org/abs/2309.06256)[[project]](https://github.com/zchuz/CoT-Reasoning-Survey)
+- Towards Better Chain-of-Thought Prompting Strategies: A Survey [[paper]](https://arxiv.org/pdf/2310.04959.pdf)
 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation [[paper]](https://arxiv.org/abs/2202.01110)

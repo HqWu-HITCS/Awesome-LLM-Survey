@@ -21,6 +21,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
+    - [Factuality  in LLM](#factuality--in-llm)
     - [LLM for Domain Application](#llm-for-domain-application)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
@@ -83,6 +84,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models [[paper]](https://arxiv.org/abs/2308.10149)
+
+### Factuality  in LLM
+- A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity [[paper]](https://arxiv.org/abs/2310.07521)[[project]](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
 ### LLM for Domain Application
 - Large AI Models in Health Informatics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)

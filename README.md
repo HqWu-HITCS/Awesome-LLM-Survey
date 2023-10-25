@@ -5,35 +5,48 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 - [Awesome-LLM-Survey](#awesome-llm-survey)
-    - [General Survey](#general-survey)
+  - [General Survey](#general-survey)
+  - [Training of LLM](#training-of-llm)
     - [Instruction Tuning](#instruction-tuning)
     - [Human Alignment for LLM](#human-alignment-for-llm)
+  - [Prompt of LLM](#prompt-of-llm)
     - [Chain of Thought for LLM](#chain-of-thought-for-llm)
     - [Prompt Engineering for LLM](#prompt-engineering-for-llm)
     - [Retrieval-Augmented LLM](#retrieval-augmented-llm)
-    - [LLM Agent](#llm-agent)
+  - [Challenge of LLM](#challenge-of-llm)
     - [Hallucination in LLM](#hallucination-in-llm)
     - [Catastrophic Forgetting](#catastrophic-forgetting)
-    - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
-    - [Multimodal LLM](#multimodal-llm)
-    - [Code LLM](#code-llm)
     - [Compression for LLM](#compression-for-llm)
     - [Evaluation of LLM](#evaluation-of-llm)
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
     - [Factuality  in LLM](#factuality--in-llm)
-    - [LLM for Domain Application](#llm-for-domain-application)
+    - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
+  - [Mulitmodal of LLM](#mulitmodal-of-llm)
+    - [Visual LLM](#visual-llm)
+    - [Code LLM](#code-llm)
+  - [LLM for Domain Application](#llm-for-domain-application)
+    - [LLM for Health](#llm-for-health)
+    - [Agent of LLM](#agent-of-llm)
+  - [LLM for Downstream Tasks](#llm-for-downstream-tasks)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
     - [LLM for Software Engineering](#llm-for-software-engineering)
 
 
-### General Survey
+---
+
+## General Survey
 
 - A Survey of Large Language Models [[paper]](https://arxiv.org/abs/2303.18223)[[project]](https://github.com/RUCAIBox/LLMSurvey)
 
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[paper]](https://arxiv.org/abs/2304.13712)[[project]](https://github.com/Mooler0410/LLMsPracticalGuide)
+
+---
+
+## Training of LLM
+
 
 ### Instruction Tuning
 - Instruction Tuning for Large Language Models: A Survey [[paper]](https://arxiv.org/abs/2308.10792)
@@ -42,6 +55,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Model [[paper]](https://arxiv.org/abs/2308.12014)[[project]](https://github.com/ValueCompass/Alignment-Goal-Survey)
 - Aligning Large Language Models with Human: A Survey [[paper]](https://arxiv.org/abs/2307.12966)[[project]](https://github.com/GaryYufei/AlignLLMHumanSurvey)
 - Large Language Model Alignment: A Survey [[paper]](https://arxiv.org/abs/2309.15025)
+
+---
+
+## Prompt of LLM
+
 
 ### Chain of Thought for LLM
 - A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future [[paper]](https://arxiv.org/abs/2309.06256)[[project]](https://github.com/zchuz/CoT-Reasoning-Survey)
@@ -53,9 +71,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation [[paper]](https://arxiv.org/abs/2202.01110)
 
-### LLM Agent
-- The Rise and Potential of Large Language Model Based Agents: A Survey [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-- A Survey on Large Language Model based Autonomous Agents [[paper]](https://arxiv.org/abs/2308.11432)[[project]](https://github.com/Paitesanshi/LLM-Agent-Survey)
+---
+
+## Challenge of LLM
+
 
 ### Hallucination in LLM
 - A Survey of Hallucination in “Large” Foundation Models [[paper]](https://arxiv.org/paper/2309.05922)[[project]](https://github.com/vr25/hallucination-foundation-model-survey)
@@ -64,15 +83,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Catastrophic Forgetting
 - Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models [[paper]](https://arxiv.org/abs/2309.15402)
-
-### Knowledge Editing for LLM
-- Editing Large Language Models: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
-
-### Multimodal LLM
-- A Survey on Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2306.13549)[[project]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
-
-### Code LLM
-- Large Language Models Meet NL2Code: A Survey [[paper]](https://arxiv.org/abs/2212.09420)
 
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models [[paper]](https://arxiv.org/abs/2308.07633)
@@ -92,8 +102,39 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Factuality  in LLM
 - A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity [[paper]](https://arxiv.org/abs/2310.07521)[[project]](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
-### LLM for Domain Application
+### Knowledge Editing for LLM
+- Editing Large Language Models: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
+
+
+---
+
+## Mulitmodal of LLM
+
+
+### Visual LLM
+- A Survey on Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2306.13549)[[project]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+### Code LLM
+- Large Language Models Meet NL2Code: A Survey [[paper]](https://arxiv.org/abs/2212.09420)
+
+
+---
+
+## LLM for Domain Application
+
+
+### LLM for Health
 - Large AI Models in Health Informatics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+
+### Agent of LLM
+- The Rise and Potential of Large Language Model Based Agents: A Survey [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+- A Survey on Large Language Model based Autonomous Agents [[paper]](https://arxiv.org/abs/2308.11432)[[project]](https://github.com/Paitesanshi/LLM-Agent-Survey)
+
+
+---
+
+## LLM for Downstream Tasks
+
 
 ### LLM for Recommendation
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions [[paper]](https://arxiv.org/abs/2309.01157)

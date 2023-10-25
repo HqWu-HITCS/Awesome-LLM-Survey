@@ -8,11 +8,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [General Survey](#general-survey)
     - [Instruction Tuning](#instruction-tuning)
     - [Human Alignment for LLM](#human-alignment-for-llm)
-    - [Catastrophic Forgetting](#catastrophic-forgetting)
     - [Chain of Thought for LLM](#chain-of-thought-for-llm)
+    - [Prompt Engineering for LLM](#prompt-engineering-for-llm)
     - [Retrieval-Augmented LLM](#retrieval-augmented-llm)
     - [LLM Agent](#llm-agent)
     - [Hallucination in LLM](#hallucination-in-llm)
+    - [Catastrophic Forgetting](#catastrophic-forgetting)
     - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
     - [Multimodal LLM](#multimodal-llm)
     - [Code LLM](#code-llm)
@@ -42,12 +43,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Aligning Large Language Models with Human: A Survey [[paper]](https://arxiv.org/abs/2307.12966)[[project]](https://github.com/GaryYufei/AlignLLMHumanSurvey)
 - Large Language Model Alignment: A Survey [[paper]](https://arxiv.org/abs/2309.15025)
 
-### Catastrophic Forgetting
-- Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models [[paper]](https://arxiv.org/abs/2309.15402)
-
 ### Chain of Thought for LLM
 - A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future [[paper]](https://arxiv.org/abs/2309.06256)[[project]](https://github.com/zchuz/CoT-Reasoning-Survey)
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey [[paper]](https://arxiv.org/pdf/2310.04959.pdf)
+
+### Prompt Engineering for LLM
+- Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review [[paper]](https://arxiv.org/pdf/2310.14735.pdf)
 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation [[paper]](https://arxiv.org/abs/2202.01110)
@@ -60,6 +61,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - A Survey of Hallucination in “Large” Foundation Models [[paper]](https://arxiv.org/paper/2309.05922)[[project]](https://github.com/vr25/hallucination-foundation-model-survey)
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models [[paper]](https://arxiv.org/abs/2309.01219)[[project]](https://arxiv.org/abs/2309.01219)
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models [[paper]](https://arxiv.org/paper/2309.06794.paper)[[project]](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)
+
+### Catastrophic Forgetting
+- Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models [[paper]](https://arxiv.org/abs/2309.15402)
 
 ### Knowledge Editing for LLM
 - Editing Large Language Models: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)

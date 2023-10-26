@@ -33,6 +33,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
     - [LLM for Software Engineering](#llm-for-software-engineering)
+    - [Detection of LLMs-Generated Content](#detection-of-llms-generated-content)
 
 
 ---
@@ -101,9 +102,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Factuality  in LLM
 - A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity [[paper]](https://arxiv.org/abs/2310.07521)[[project]](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+- Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models [[paper]](https://arxiv.org/pdf/2310.16570.pdf)
 
 ### Knowledge Editing for LLM
 - Editing Large Language Models: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
+- Knowledge Editing for Large Language Models: A Survey [[paper]](https://arxiv.org/pdf/2310.16218.pdf)
 
 
 ---
@@ -146,3 +149,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Software Engineering
 - Large Language Models for Software Engineering: Survey and Open Problems [[paper]](https://arxiv.org/abs/2310.03533)
 - Large Language Models for Software Engineering: A Systematic Literature Review [[paper]](https://arxiv.org/abs/2308.10620)
+
+### Detection of LLMs-Generated Content
+- A Survey on Detection of LLMs-Generated Content [[paper]](https://arxiv.org/abs/2310.15654)[[project]](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection)

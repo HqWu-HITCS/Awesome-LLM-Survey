@@ -23,6 +23,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Fairness in LLM](#fairness-in-llm)
     - [Factuality  in LLM](#factuality--in-llm)
     - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
+    - [Tool Using of LLM](#tool-using-of-llm)
   - [Mulitmodal of LLM](#mulitmodal-of-llm)
     - [Visual LLM](#visual-llm)
     - [Code LLM](#code-llm)
@@ -107,6 +108,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Knowledge Editing for LLM
 - Editing Large Language Models: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
 - Knowledge Editing for Large Language Models: A Survey [[paper]](https://arxiv.org/pdf/2310.16218.pdf)
+
+### Tool Using of LLM
+- Foundation Models for Decision Making: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/abs/2303.04129)
+- Augmented Language Models: a Survey [[paper]](https://arxiv.org/abs/2302.07842)
 
 
 ---

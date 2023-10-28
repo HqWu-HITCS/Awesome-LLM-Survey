@@ -45,6 +45,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[paper]](https://arxiv.org/abs/2304.13712)[[project]](https://github.com/Mooler0410/LLMsPracticalGuide)
 
+- A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4 [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
+
+- Challenges and Applications of Large Language Models [[paper]](https://arxiv.org/abs/2307.10169)
+
+- A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT [[paper]](https://arxiv.org/abs/2302.09419)
+
 ---
 
 ## Training of LLM

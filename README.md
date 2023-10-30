@@ -130,7 +130,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Code LLM
 - Large Language Models Meet NL2Code: A Survey [[paper]](https://arxiv.org/abs/2212.09420)
-
+- Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey [[paper]](https://arxiv.org/pdf/2310.17903.pdf)[[project]](https://github.com/yueyueL/ReliableLM4Code)
 
 ---
 

@@ -118,6 +118,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
 - Knowledge Editing for Large Language Models: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16218.pdf)
 
+### Attributions for Large Language Models
+- A Survey of Large Language Models Attribution, 2023.11 [[paper]](https://arxiv.org/pdf/2311.03731)[[project]](https://github.com/HITsz-TMG/awesome-llm-attributions)
+
 ### Tool Using of LLM
 - Foundation Models for Decision Making: Problems, Methods, and Opportunities, 2023.03 [[paper]](https://arxiv.org/abs/2303.04129)
 - Augmented Language Models: a Survey, 2023.02 [[paper]](https://arxiv.org/abs/2302.07842)

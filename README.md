@@ -23,6 +23,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Fairness in LLM](#fairness-in-llm)
     - [Factuality  in LLM](#factuality--in-llm)
     - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
+    - [Attributions for LLM](#attributions-for-llm)
     - [Tool Using of LLM](#tool-using-of-llm)
   - [Mulitmodal of LLM](#mulitmodal-of-llm)
     - [Visual LLM](#visual-llm)
@@ -87,6 +88,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Hallucination in LLM
+- A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05232)[[project]](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)
 - A Survey of Hallucination in “Large” Foundation Models, 2023.09  [[paper]](https://arxiv.org/paper/2309.05922)[[project]](https://github.com/vr25/hallucination-foundation-model-survey)
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models, 2023.09 [[paper]](https://arxiv.org/abs/2309.01219)[[project]](https://arxiv.org/abs/2309.01219)
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models, 2023.09 [[paper]](https://arxiv.org/paper/2309.06794.paper)[[project]](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)
@@ -144,8 +146,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### LLM for Health
-- Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+- A Survey of Large Language Models in Medicine: Progress, Application, and Challenge, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05112)[[project]](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
 - Large Language Models Illuminate a Progressive Pathway to Artificial  Healthcare Assistant: A Review, 2023.10 [[paper]](https://arxiv.org/pdf/2311.01918)[[project]](https://github.com/mingze-yuan/Awesome-LLM-Healthcare)
+- Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+
 
 ### Agent of LLM
 - A Survey on Large Language Model based Autonomous Agents, 2023.08 [[paper]](https://arxiv.org/abs/2308.11432)[[project]](https://github.com/Paitesanshi/LLM-Agent-Survey)

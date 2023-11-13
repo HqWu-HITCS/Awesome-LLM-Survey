@@ -22,7 +22,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
     - [Factuality in LLM](#factuality--in-llm)
-    - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
+    - [Knowledge of LLM](#knowledge-of-llm)
     - [Attributions for LLM](#attributions-for-llm)
     - [Tool Using of LLM](#tool-using-of-llm)
   - [Mulitmodal of LLM](#mulitmodal-of-llm)

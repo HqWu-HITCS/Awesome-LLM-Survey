@@ -21,7 +21,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
-    - [Factuality  in LLM](#factuality--in-llm)
+    - [Factuality in LLM](#factuality--in-llm)
     - [Knowledge Editing for LLM](#knowledge-editing-for-llm)
     - [Attributions for LLM](#attributions-for-llm)
     - [Tool Using of LLM](#tool-using-of-llm)
@@ -112,13 +112,15 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.10149)
 
-### Factuality  in LLM
+### Factuality in LLM
 - A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity, 2023.10 [[paper]](https://arxiv.org/abs/2310.07521)[[project]](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 - Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16570.pdf)
 
-### Knowledge Editing for LLM
-- Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
+### Knowledge of LLM
+- Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05876.pdf)
 - Knowledge Editing for Large Language Models: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16218.pdf)
+- Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
+  
 
 ### Attributions for LLM
 - A Survey of Large Language Models Attribution, 2023.11 [[paper]](https://arxiv.org/pdf/2311.03731)[[project]](https://github.com/HITsz-TMG/awesome-llm-attributions)

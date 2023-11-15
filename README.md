@@ -21,7 +21,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
-    - [Factuality in LLM](#factuality--in-llm)
+    - [Factuality in LLM](#factuality-in-llm)
     - [Knowledge of LLM](#knowledge-of-llm)
     - [Attributions for LLM](#attributions-for-llm)
     - [Tool Using of LLM](#tool-using-of-llm)
@@ -73,8 +73,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Chain of Thought for LLM
-- A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future, 2023.09 [[paper]](https://arxiv.org/abs/2309.06256)[[project]](https://github.com/zchuz/CoT-Reasoning-Survey)
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.04959.pdf)
+- A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future, 2023.09 [[paper]](https://arxiv.org/abs/2309.06256)[[project]](https://github.com/zchuz/CoT-Reasoning-Survey)
 
 ### Prompt Engineering for LLM
 - Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review, 2023.10 [[paper]](https://arxiv.org/pdf/2310.14735.pdf)
@@ -88,6 +88,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Hallucination in LLM
+- Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07914)
 - A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05232)[[project]](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)
 - A Survey of Hallucination in “Large” Foundation Models, 2023.09  [[paper]](https://arxiv.org/paper/2309.05922)[[project]](https://github.com/vr25/hallucination-foundation-model-survey)
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models, 2023.09 [[paper]](https://arxiv.org/abs/2309.01219)[[project]](https://arxiv.org/abs/2309.01219)
@@ -120,7 +121,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05876.pdf)
 - Knowledge Editing for Large Language Models: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16218.pdf)
 - Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
-  
 
 ### Attributions for LLM
 - A Survey of Large Language Models Attribution, 2023.11 [[paper]](https://arxiv.org/pdf/2311.03731)[[project]](https://github.com/HITsz-TMG/awesome-llm-attributions)
@@ -129,6 +129,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Foundation Models for Decision Making: Problems, Methods, and Opportunities, 2023.03 [[paper]](https://arxiv.org/abs/2303.04129)
 - Augmented Language Models: a Survey, 2023.02 [[paper]](https://arxiv.org/abs/2302.07842)
 
+### Confidence Estimation and Calibration of LLM
+- A Survey of Language Model Confidence Estimation and Calibration, 2023.11 [[paper]](https://arxiv.org/pdf/2311.08298.pdf)
 
 ---
 
@@ -136,11 +138,13 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Visual LLM
+- How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07594.pdf)
 - A Survey on Multimodal Large Language Models, 2023.06 [[paper]](https://arxiv.org/abs/2306.13549)[[project]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 ### Code LLM
-- Large Language Models Meet NL2Code: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09420)
+- A Survey on Language Models for Code, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07989)[[project]](https://github.com/codefuse-ai/Awesome-Code-LLM)
 - Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17903.pdf)[[project]](https://github.com/yueyueL/ReliableLM4Code)
+- Large Language Models Meet NL2Code: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09420)
 
 ---
 

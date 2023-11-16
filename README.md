@@ -42,14 +42,13 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ---
 
 ## General Survey
+- A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4, 2023.10 [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
 
 - A Survey of Large Language Models, 2023.09 [[paper]](https://arxiv.org/abs/2303.18223)[[project]](https://github.com/RUCAIBox/LLMSurvey)
 
-- Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [[paper]](https://arxiv.org/abs/2304.13712)[[project]](https://github.com/Mooler0410/LLMsPracticalGuide)
-
-- A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4, 2023.10 [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
-
 - Challenges and Applications of Large Language Models, 2023.07 [[paper]](https://arxiv.org/abs/2307.10169)
+
+- Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [[paper]](https://arxiv.org/abs/2304.13712)[[project]](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 - A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT, 2023.02 [[paper]](https://arxiv.org/abs/2302.09419)
 
@@ -63,9 +62,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Human Alignment for LLM
 - AI Alignment: A Comprehensive Survey, 2023.10 [[paper]][(https://arxiv.org/abs/2308.12014](https://arxiv.org/pdf/2310.19852))[[project]](https://www.alignmentsurvey.com)
+- Large Language Model Alignment: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.15025)
 - From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Model, 2023.08 [[paper]](https://arxiv.org/abs/2308.12014)[[project]](https://github.com/ValueCompass/Alignment-Goal-Survey)
 - Aligning Large Language Models with Human: A Survey, 2023.07 [[paper]](https://arxiv.org/abs/2307.12966)[[project]](https://github.com/GaryYufei/AlignLLMHumanSurvey)
-- Large Language Model Alignment: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.15025)
 
 ---
 
@@ -98,10 +97,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models, 2023.09 [[paper]](https://arxiv.org/abs/2309.15402)
 
 ### Compression for LLM
-- Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19736.pdf)[[project]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)
 
 ### Evaluation of LLM
+- Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19736.pdf)[[project]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
 - A Survey on Evaluation of Large Language Models, 2023.07 [[paper]](https://arxiv.org/abs/2307.03109)[[project]](https://llm-eval.github.io/)
 
 ### Reasoning with LLM
@@ -168,15 +167,15 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### LLM for Recommendation
-- How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [[paper]](https://arxiv.org/abs/2306.05817)[[project]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions, 2023.09 [[paper]](https://arxiv.org/abs/2309.01157)
+- How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [[paper]](https://arxiv.org/abs/2306.05817)[[project]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
 
 ### LLM for Information Retrieval
 - Large Language Models for Information Retrieval: A Survey, 2023.08 [[paper]](https://arxiv.org/abs/2308.07107)[[project]](https://github.com/RUC-NLPIR/LLM4IR-Survey)
 
 ### LLM for Software Engineering
-- Large Language Models for Software Engineering: A Systematic Literature Review, 2023.08 [[paper]](https://arxiv.org/abs/2308.10620)
 - Large Language Models for Software Engineering: Survey and Open Problems, 2023.10 [[paper]](https://arxiv.org/abs/2310.03533)
+- Large Language Models for Software Engineering: A Systematic Literature Review, 2023.08 [[paper]](https://arxiv.org/abs/2308.10620)
 
 ### LLM for Autonomous Driving
 - A Survey of Large Language Models for Autonomous Driving, 2023.11 [[paper]](https://arxiv.org/pdf/2311.01043)[[project]](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)

@@ -168,6 +168,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Recommendation
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions, 2023.09 [[paper]](https://arxiv.org/abs/2309.01157)
+- A Survey on Large Language Models for Recommendation, 2023.08 [[paper]](https://arxiv.org/abs/2305.19860)[[project]](https://github.com/WLiK/LLM4Rec-Awesome-Papers)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [[paper]](https://arxiv.org/abs/2306.05817)[[project]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
 
 ### LLM for Information Retrieval

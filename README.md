@@ -68,7 +68,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Instruction Tuning for Large Language Models: A Survey, 2023.08 [[paper]](https://arxiv.org/abs/2308.10792)
 
 ### Human Alignment for LLM
-- AI Alignment: A Comprehensive Survey, 2023.10 [[paper]][(https://arxiv.org/abs/2308.12014](https://arxiv.org/pdf/2310.19852))[[project]](https://www.alignmentsurvey.com)
+- AI Alignment: A Comprehensive Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19852)[[project]](https://www.alignmentsurvey.com)
   
 - Large Language Model Alignment: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.15025)
   

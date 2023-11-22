@@ -24,6 +24,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Reasoning with LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
+    - [Graph for LLM](#graph-for-llm)
+    - [Long-Context for LLM](#long-context-for-llm)
     - [Factuality in LLM](#factuality-in-llm)
     - [Knowledge of LLM](#knowledge-of-llm)
     - [Attributions for LLM](#attributions-for-llm)
@@ -127,6 +129,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.10149)
 
+### Graph for LLM
+- A Survey of Graph Meets Large Language Model: Progress and Future Directions, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12399)
+
+### Long-Context for LLM
+- Advancing Transformer Architecture in Long-Context Large Language  Models: A Comprehensive Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12351)
+
 ### Factuality in LLM
 - A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity, 2023.10 [[paper]](https://arxiv.org/abs/2310.07521)[[project]](https://github.com/wangcunxiang/LLM-Factuality-Survey)
   
@@ -192,6 +200,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### LLM for Recommendation
+- A Survey on Large Language Models for Personalized and Explainable  Recommendations, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12338)
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions, 2023.09 [[paper]](https://arxiv.org/abs/2309.01157)
 - A Survey on Large Language Models for Recommendation, 2023.08 [[paper]](https://arxiv.org/abs/2305.19860)[[project]](https://github.com/WLiK/LLM4Rec-Awesome-Papers)
 - How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [[paper]](https://arxiv.org/abs/2306.05817)[[project]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys)
@@ -204,6 +213,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Large Language Models for Software Engineering: A Systematic Literature Review, 2023.08 [[paper]](https://arxiv.org/abs/2308.10620)
 
 ### LLM for Autonomous Driving
+- A Survey on Multimodal Large Language Models for Autonomous Driving, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12320.pdf)
 - A Survey of Large Language Models for Autonomous Driving, 2023.11 [[paper]](https://arxiv.org/pdf/2311.01043)[[project]](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
 
 ### LLM for Time Series

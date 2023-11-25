@@ -91,7 +91,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 
 ### Prompt Engineering for LLM
+- Prompting Frameworks for Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12785.pdf)[[project]](https://github.com/lxx0628/Prompting-Framework-Survey)
+
 - Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review, 2023.10 [[paper]](https://arxiv.org/pdf/2310.14735.pdf)
+
 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation, 2022.02 [[paper]](https://arxiv.org/abs/2202.01110)

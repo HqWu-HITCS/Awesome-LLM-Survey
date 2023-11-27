@@ -37,6 +37,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Code LLM](#code-llm)
   - [LLM for Domain Application](#llm-for-domain-application)
     - [LLM for Health](#llm-for-health)
+    - [LLM for Finance](#llm-for-finance)
   - [LLM for Downstream Tasks](#llm-for-downstream-tasks)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
@@ -50,9 +51,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ---
 
 ## General Survey
-- A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4, 2023.10 [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
+- A Survey of Large Language Models, 2023.11 [[paper]](https://arxiv.org/abs/2303.18223)[[project]](https://github.com/RUCAIBox/LLMSurvey)
 
-- A Survey of Large Language Models, 2023.09 [[paper]](https://arxiv.org/abs/2303.18223)[[project]](https://github.com/RUCAIBox/LLMSurvey)
+- A Survey of GPT-3 Family Large Language Models Including ChatGPT and GPT-4, 2023.10 [[paper]](https://arxiv.org/pdf/2310.12321.pdf)
 
 - Challenges and Applications of Large Language Models, 2023.07 [[paper]](https://arxiv.org/abs/2307.10169)
 
@@ -196,6 +197,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Large Language Models Illuminate a Progressive Pathway to Artificial  Healthcare Assistant: A Review, 2023.10 [[paper]](https://arxiv.org/pdf/2311.01918)[[project]](https://github.com/mingze-yuan/Awesome-LLM-Healthcare)
   
 - Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+
+### LLM for Finance
+- Large Language Models in Finance: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2311.10723)
 
 ---
 

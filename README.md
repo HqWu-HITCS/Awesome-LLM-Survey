@@ -27,7 +27,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Graph for LLM](#graph-for-llm)
     - [Long-Context for LLM](#long-context-for-llm)
     - [Factuality in LLM](#factuality-in-llm)
-    - [Knowledge of LLM](#knowledge-of-llm)
+    - [Knowledge for LLM](#knowledge-for-llm)
     - [Attributions for LLM](#attributions-for-llm)
     - [Tool Using of LLM](#tool-using-of-llm)
     - [Calibration of LLM](#calibration-of-llm)
@@ -38,6 +38,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [LLM for Domain Application](#llm-for-domain-application)
     - [LLM for Health](#llm-for-health)
     - [LLM for Finance](#llm-for-finance)
+    - [LLM for Education](#llm-for-education)
   - [LLM for Downstream Tasks](#llm-for-downstream-tasks)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
@@ -144,7 +145,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16570.pdf)
 
-### Knowledge of LLM
+### Knowledge for LLM
+- Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges, 2023.11 [[paper]](https://arxiv.org/pdf/2311.15766)
+
 - Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05876.pdf)
   
 - Knowledge Editing for Large Language Models: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16218.pdf)
@@ -200,6 +203,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Finance
 - Large Language Models in Finance: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2311.10723)
+
+### LLM for Education
+- ChatGPT and Beyond: The Generative AI Revolution in Education, 2023.11 [[paper]](https://arxiv.org/pdf/2311.15198)
 
 ---
 

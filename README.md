@@ -97,6 +97,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review, 2023.10 [[paper]](https://arxiv.org/pdf/2310.14735.pdf)
 
+- Towards Better Chain-of-Thought Prompting Strategies: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.04959.pdf)
 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation, 2022.02 [[paper]](https://arxiv.org/abs/2202.01110)
@@ -117,6 +118,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models, 2023.09 [[paper]](https://arxiv.org/paper/2309.06794.paper)[[project]](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)
 
+- Augmenting LLMs with Knowledge: A survey on hallucination prevention, 2023.09 [[paper]](https://arxiv.org/pdf/2309.16459.pdf)
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)
 
@@ -130,6 +132,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Explainability for LLM
 - Explainability for Large Language Models: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.01029)
+- The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilitie, 2023.11 [[paper]](https://arxiv.org/pdf/2311.00237.pdf)
 
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.10149)
@@ -184,6 +187,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - A Survey on Multimodal Large Language Models, 2023.06 [[paper]](https://arxiv.org/abs/2306.13549)[[project]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
+- Multimodal Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.13165.pdf)
+- Large Language Models Meet Computer Vision: A Brief Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16673.pdf)
 ### Code LLM
 - A Survey on Language Models for Code, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07989)[[project]](https://github.com/codefuse-ai/Awesome-Code-LLM)
   
@@ -209,6 +214,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Education
 - ChatGPT and Beyond: The Generative AI Revolution in Education, 2023.11 [[paper]](https://arxiv.org/pdf/2311.15198)
 
+### LLM for Robotics
+-  Large Language Models for Robotics: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07226.pdf)
 ---
 
 ## LLM for Downstream Tasks
@@ -236,8 +243,14 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Detection of LLMs-Generated Content
 - A Survey on Detection of LLMs-Generated Content, 2023.10 [[paper]](https://arxiv.org/abs/2310.15654)[[project]](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection)
+- A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions, 2023.10 [[paper]](https://arxiv.org/pdf/2310.14724.pdf)
+[[project]](https://github.com/NLP2CT/LLM-generated-Text-Detection)
+- Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text, 2023.09 [[paper]](https://arxiv.org/pdf/2309.07689.pdf)
+### LLM for Society
+- Large Language Models as Subpopulation Representative Models: A Review, 2023.10 [[paper]](https://arxiv.org/ftp/arxiv/papers/2310/2310.17888.pdf)
 
-
+### LLM for Citation
+- When Large Language Models Meet Citation: A Survey, 2023.09 [[paper]](https://arxiv.org/pdf/2309.09727.pdf)
 ## Star History
 
 <a href="https://star-history.com/#HqWu-HITCS/Awesome-LLM-Survey&Date">

@@ -171,6 +171,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
+### Vulnerabilities of LLM
+- Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
 ---
 
 ## Mulitmodal of LLM

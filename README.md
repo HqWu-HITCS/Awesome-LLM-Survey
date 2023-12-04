@@ -32,6 +32,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Tool Using of LLM](#tool-using-of-llm)
     - [Calibration of LLM](#calibration-of-llm)
     - [Agent of LLM](#agent-of-llm)
+    - [Vulnerabilities of LLM](#vulnerabilities-of-llm)
+    - [Efficiency of LLM](#efficiency-of-llm)
   - [Mulitmodal of LLM](#mulitmodal-of-llm)
     - [Visual LLM](#visual-llm)
     - [Code LLM](#code-llm)
@@ -39,6 +41,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Health](#llm-for-health)
     - [LLM for Finance](#llm-for-finance)
     - [LLM for Education](#llm-for-education)
+    - [LLM for Robotics](#llm-for-robotics)
   - [LLM for Downstream Tasks](#llm-for-downstream-tasks)
     - [LLM for Recommendation](#llm-for-recommendation)
     - [LLM for Information Retrieval](#llm-for-information-retrieval)
@@ -46,6 +49,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Autonomous Driving](#llm-for-autonomous-driving)
     - [LLM for Time Series](#llm-for-time-series)
     - [Detection of LLMs-Generated Content](#detection-of-llms-generated-content)
+    - [LLM for Society](#llm-for-society)
+    - [LLM for Citation](#llm-for-citation)
   - [Star History](#star-history)
 
 
@@ -176,6 +181,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Vulnerabilities of LLM
 - Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
+
+### Efficiency of LLM
+- The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)[[project]](https://github.com/tding1/Efficient-LLM-Survey)
+
 ---
 
 ## Mulitmodal of LLM
@@ -189,6 +198,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Multimodal Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.13165.pdf)
 - Large Language Models Meet Computer Vision: A Brief Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16673.pdf)
+
 ### Code LLM
 - A Survey on Language Models for Code, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07989)[[project]](https://github.com/codefuse-ai/Awesome-Code-LLM)
   

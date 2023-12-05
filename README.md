@@ -34,6 +34,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Agent of LLM](#agent-of-llm)
     - [Vulnerabilities of LLM](#vulnerabilities-of-llm)
     - [Efficiency of LLM](#efficiency-of-llm)
+    - [Data of LLM](#data-of-llm)
+    - [Security and Privacy of LLM](#security-and-privacy-of-llm)
   - [Mulitmodal of LLM](#mulitmodal-of-llm)
     - [Visual LLM](#visual-llm)
     - [Code LLM](#code-llm)
@@ -184,6 +186,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Efficiency of LLM
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)[[project]](https://github.com/tding1/Efficient-LLM-Survey)
+
+### Data of LLM
+- Data Management For Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.01700)[[project]](https://github.com/ZigeW/data_management_LLM)
+
+### Security and Privacy of LLM
+- A Survey on Large Language Model (LLM) Security and Privacy: The Good,  the Bad, and the Ugly, 2023.12 [[paper]](https://arxiv.org/pdf/2312.02003)
 
 ---
 

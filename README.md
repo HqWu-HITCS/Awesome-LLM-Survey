@@ -146,6 +146,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Graph for LLM
 - A Survey of Graph Meets Large Language Model: Progress and Future Directions, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12399)
+- Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.02783.pdf) [[project]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
 
 ### Long-Context for LLM
 - Advancing Transformer Architecture in Long-Context Large Language  Models: A Comprehensive Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12351)

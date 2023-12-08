@@ -43,6 +43,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Health](#llm-for-health)
     - [LLM for Finance](#llm-for-finance)
     - [LLM for Education](#llm-for-education)
+    - [LLM for Law](#llm-for-law)
     - [LLM for Robotics](#llm-for-robotics)
   - [LLM for Downstream Tasks](#llm-for-downstream-tasks)
     - [LLM for Recommendation](#llm-for-recommendation)
@@ -187,6 +188,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Efficiency of LLM
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)[[project]](https://github.com/tding1/Efficient-LLM-Survey)
+- Efficient Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.03863)[[project]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 
 ### Data of LLM
 - Data Management For Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.01700)[[project]](https://github.com/ZigeW/data_management_LLM)
@@ -232,6 +234,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Education
 - ChatGPT and Beyond: The Generative AI Revolution in Education, 2023.11 [[paper]](https://arxiv.org/pdf/2311.15198)
+
+### LLM for Law
+- Large Language Models in Law: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.03718)
 
 ### LLM for Robotics
 -  Large Language Models for Robotics: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07226.pdf)

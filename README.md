@@ -238,6 +238,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Law
 - Large Language Models in Law: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.03718)
 
+### LLM for Mental Health
+- A review of the explainability and safety of conversational agents for mental health to identify avenues for improvement, 2023.10 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601652/)
+- Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
+
 ### LLM for Robotics
 -  Large Language Models for Robotics: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07226.pdf)
 ---

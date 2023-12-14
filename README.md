@@ -279,6 +279,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Citation
 - When Large Language Models Meet Citation: A Survey, 2023.09 [[paper]](https://arxiv.org/pdf/2309.09727.pdf)
+
+### LLM for Text Watermarking
+- A Survey of Text Watermarking in the Era of Large Language Models, 2023.12 [[paper]](https://arxiv.org/pdf/2312.07913.pdf)
+
+### LLM for Math
+- Mathematical Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.07622.pdf)
 ## Star History
 
 <a href="https://star-history.com/#HqWu-HITCS/Awesome-LLM-Survey&Date">

@@ -97,7 +97,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Towards Better Chain-of-Thought Prompting Strategies: A Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.04959.pdf)
   
 - A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future, 2023.09 [[paper]](https://arxiv.org/abs/2309.06256)[[project]](https://github.com/zchuz/CoT-Reasoning-Survey)
-  
+- Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents, 2023.11 [[paper]](https://arxiv.org/pdf/2311.11797.pdf) [[project]](https://github.com/Zoeyyao27/CoT-Igniting-Agent)
   
 
 ### Prompt Engineering for LLM

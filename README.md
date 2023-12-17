@@ -229,6 +229,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Large Language Models Illuminate a Progressive Pathway to Artificial  Healthcare Assistant: A Review, 2023.10 [[paper]](https://arxiv.org/pdf/2311.01918)[[project]](https://github.com/mingze-yuan/Awesome-LLM-Healthcare)
   
 - Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+  
+- A SWOT (Strengths, Weaknesses, Opportunities, and Threats) Analysis of ChatGPT in the Medical Literature: Concise Review, 2023.11 [[paper]](https://www.jmir.org/2023/1/e49368/PDF)
 
 ### LLM for Finance
 - Large Language Models in Finance: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2311.10723)

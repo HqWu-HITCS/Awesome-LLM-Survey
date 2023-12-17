@@ -76,6 +76,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Instruction Tuning
+- Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [[paper]](https://arxiv.org/pdf/2303.10475.pdf) [[project]](https://github.com/RenzeLou/awesome-instruction-learning)
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
 - Instruction Tuning for Large Language Models: A Survey, 2023.08 [[paper]](https://arxiv.org/abs/2308.10792)
 

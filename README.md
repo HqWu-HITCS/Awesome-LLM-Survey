@@ -70,12 +70,18 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT, 2023.02 [[paper]](https://arxiv.org/abs/2302.09419)
 
+- Large language models: a comprehensive survey of its applications, challenges, limitations, and future prospects, 2023.12 [[paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23589741.v4) [[project]](https://github.com/anas-zafar/LLM-Survey)
+
+- The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions, 2023.04 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)
+
+- A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges, 2023.10 [[paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24171183.v1)
 ---
 
 ## Training of LLM
 
 
 ### Instruction Tuning
+- Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [[paper]](https://arxiv.org/pdf/2303.10475.pdf) [[project]](https://github.com/RenzeLou/awesome-instruction-learning)
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
 - Instruction Tuning for Large Language Models: A Survey, 2023.08 [[paper]](https://arxiv.org/abs/2308.10792)
 
@@ -127,6 +133,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models, 2023.09 [[paper]](https://arxiv.org/paper/2309.06794.paper)[[project]](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)
 
 - Augmenting LLMs with Knowledge: A survey on hallucination prevention, 2023.09 [[paper]](https://arxiv.org/pdf/2309.16459.pdf)
+
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)
 
@@ -166,6 +173,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
 
+- - Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph, 2023.08 [[paper]](https://arxiv.org/pdf/2308.13534.pdf)
 
 ### Attributions for LLM
 - A Survey of Large Language Models Attribution, 2023.11 [[paper]](https://arxiv.org/pdf/2311.03731)[[project]](https://github.com/HITsz-TMG/awesome-llm-attributions)
@@ -210,6 +218,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Multimodal Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.13165.pdf)
 - Large Language Models Meet Computer Vision: A Brief Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16673.pdf)
 
+### Audio LLM
+- Sparks of large audio models: A survey and outlook, 2023.08 [[paper]](https://arxiv.org/pdf/2308.12792.pdf) [[project]](https://github.com/EmulationAI/awesome-large-audio-models)
+
 ### Code LLM
 - A Survey on Language Models for Code, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07989)[[project]](https://github.com/codefuse-ai/Awesome-Code-LLM)
   
@@ -228,6 +239,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Large Language Models Illuminate a Progressive Pathway to Artificial  Healthcare Assistant: A Review, 2023.10 [[paper]](https://arxiv.org/pdf/2311.01918)[[project]](https://github.com/mingze-yuan/Awesome-LLM-Healthcare)
   
 - Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [[paper]](https://arxiv.org/abs/2303.11568)[[project]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+  
+- A SWOT (Strengths, Weaknesses, Opportunities, and Threats) Analysis of ChatGPT in the Medical Literature: Concise Review, 2023.11 [[paper]](https://www.jmir.org/2023/1/e49368/PDF)
+
+- ChatGPT in Healthcare: A Taxonomy and Systematic Review, 2023.03 [[paper]](https://www.medrxiv.org/content/10.1101/2023.03.30.23287899v1)
 
 ### LLM for Finance
 - Large Language Models in Finance: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2311.10723)
@@ -285,6 +300,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Math
 - Mathematical Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.07622.pdf)
+
+### LLM for Environmental Disciplines
+- Recent applications of AI to environmental disciplines: A review, 2023.10 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969723063325)
 ## Star History
 
 <a href="https://star-history.com/#HqWu-HITCS/Awesome-LLM-Survey&Date">

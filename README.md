@@ -115,7 +115,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Retrieval-Augmented LLM
 - A Survey on Retrieval-Augmented Text Generation, 2022.02 [[paper]](https://arxiv.org/abs/2202.01110)
-
+- Retrieval-Augmented Generation for Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.10997.pdf) [[project]](https://github.com/Tongji-KGLLM/RAG-Survey)
 ---
 
 ## Challenge of LLM

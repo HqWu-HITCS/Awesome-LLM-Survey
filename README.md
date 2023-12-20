@@ -220,7 +220,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Multimodal Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.13165.pdf)
 - Large Language Models Meet Computer Vision: A Brief Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16673.pdf)
-
+- Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [[paper]](https://arxiv.org/pdf/2307.13721.pdf)[[project]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
 ### Audio LLM
 - Sparks of large audio models: A survey and outlook, 2023.08 [[paper]](https://arxiv.org/pdf/2308.12792.pdf) [[project]](https://github.com/EmulationAI/awesome-large-audio-models)
 

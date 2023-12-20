@@ -145,6 +145,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Reasoning with LLM
 - Reasoning with Language Model Prompting: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09597)[[project]](https://github.com/zjunlp/Prompt4ReasoningPapers)
 
+- A Survey of Reasoning with Foundation Models, 2023.12 [[papaer]](https://arxiv.org/pdf/2312.11562.pdf)[[project]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 ### Explainability for LLM
 - Explainability for Large Language Models: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.01029)
 - The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilitie, 2023.11 [[paper]](https://arxiv.org/pdf/2311.00237.pdf)
@@ -191,12 +192,14 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
+- Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, 2023.12 [[paper]](https://arxiv.org/pdf/2312.11970.pdf)
 ### Vulnerabilities of LLM
 - Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
 
 ### Efficiency of LLM
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)[[project]](https://github.com/tding1/Efficient-LLM-Survey)
 - Efficient Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.03863)[[project]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+- Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment, 2023.12 [[paper]](https://arxiv.org/pdf/2312.12148.pdf)
 
 ### Data of LLM
 - Data Management For Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.01700)[[project]](https://github.com/ZigeW/data_management_LLM)
@@ -217,7 +220,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Multimodal Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.13165.pdf)
 - Large Language Models Meet Computer Vision: A Brief Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16673.pdf)
-
+- Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [[paper]](https://arxiv.org/pdf/2307.13721.pdf)[[project]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
 ### Audio LLM
 - Sparks of large audio models: A survey and outlook, 2023.08 [[paper]](https://arxiv.org/pdf/2308.12792.pdf) [[project]](https://github.com/EmulationAI/awesome-large-audio-models)
 
@@ -303,6 +306,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Environmental Disciplines
 - Recent applications of AI to environmental disciplines: A review, 2023.10 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969723063325)
+- Opportunities and Challenges of Applying Large Language Models in Building Energy Efficiency and Decarbonization Studies: An Exploratory Overview, 2023.12 [[paper]](https://arxiv.org/ftp/arxiv/papers/2312/2312.11701.pdf)
 ## Star History
 
 <a href="https://star-history.com/#HqWu-HITCS/Awesome-LLM-Survey&Date">

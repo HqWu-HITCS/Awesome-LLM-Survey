@@ -179,7 +179,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   
 - Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [[paper]](https://arxiv.org/abs/2305.13172)[[project]](https://github.com/zjunlp/EasyEdit)
 
-- - Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph, 2023.08 [[paper]](https://arxiv.org/pdf/2308.13534.pdf)
+- Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph, 2023.08 [[paper]](https://arxiv.org/pdf/2308.13534.pdf)
 
 ### Attributions for LLM
 - A Survey of Large Language Models Attribution, 2023.11 [[paper]](https://arxiv.org/pdf/2311.03731)[[project]](https://github.com/HITsz-TMG/awesome-llm-attributions)

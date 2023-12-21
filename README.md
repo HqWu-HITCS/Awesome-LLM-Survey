@@ -273,6 +273,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### LLM for Recommendation
+- User Modeling in the Era of Large Language Models: Current Research and Future Directions, 2023.12 [[paper]](https://doi.org/10.48550/arXiv.2312.11518)[[project]](https://github.com/TamSiuhin/LLM-UM-Reading)
 - A Survey on Large Language Models for Personalized and Explainable  Recommendations, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12338)
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions, 2023.09 [[paper]](https://arxiv.org/abs/2309.01157)
 - A Survey on Large Language Models for Recommendation, 2023.08 [[paper]](https://arxiv.org/abs/2305.19860)[[project]](https://github.com/WLiK/LLM4Rec-Awesome-Papers)

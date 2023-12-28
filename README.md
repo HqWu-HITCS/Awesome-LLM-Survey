@@ -235,7 +235,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17903.pdf)[[project]](https://github.com/yueyueL/ReliableLM4Code)
   
 - Large Language Models Meet NL2Code: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09420)
-
+- A Prompt Learning Framework for Source Code Summarization, 2023.12 [[paper]](https://arxiv.org/pdf/2312.16066.pdf)
 ---
 
 ## LLM for Domain Application

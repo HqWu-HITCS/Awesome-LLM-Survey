@@ -226,6 +226,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Multimodal Large Language Models: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.13165.pdf)
 - Large Language Models Meet Computer Vision: A Brief Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.16673.pdf)
 - Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [[paper]](https://arxiv.org/pdf/2307.13721.pdf)[[project]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+
+- Video Understanding with Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.17432.pdf) [[project]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+
 ### Audio LLM
 - Sparks of large audio models: A survey and outlook, 2023.08 [[paper]](https://arxiv.org/pdf/2308.12792.pdf) [[project]](https://github.com/EmulationAI/awesome-large-audio-models)
 
@@ -313,6 +316,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Environmental Disciplines
 - Recent applications of AI to environmental disciplines: A review, 2023.10 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969723063325)
 - Opportunities and Challenges of Applying Large Language Models in Building Energy Efficiency and Decarbonization Studies: An Exploratory Overview, 2023.12 [[paper]](https://arxiv.org/ftp/arxiv/papers/2312/2312.11701.pdf)
+
+### LLM for Information Extraction
+- Large Language Models for Generative Information Extraction: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.17617.pdf) [[project]](https://github.com/quqxui/Awesome-LLM4IE-Papers)
 ## Star History
 
 <a href="https://star-history.com/#HqWu-HITCS/Awesome-LLM-Survey&Date">

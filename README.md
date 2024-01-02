@@ -154,7 +154,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Explainability for LLM
 - Explainability for Large Language Models: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.01029)
 - The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilitie, 2023.11 [[paper]](https://arxiv.org/pdf/2311.00237.pdf)
-
+- If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents, 2024.01 [[paper]](https://arxiv.org/pdf/2401.00812.pdf)
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.10149)
 

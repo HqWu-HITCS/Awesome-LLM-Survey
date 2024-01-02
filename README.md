@@ -28,6 +28,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Long-Context for LLM](#long-context-for-llm)
     - [Factuality in LLM](#factuality-in-llm)
     - [Knowledge for LLM](#knowledge-for-llm)
+    - [Self-Correction for LLM](#self-correction-for-llm)
     - [Attributions for LLM](#attributions-for-llm)
     - [Tool Using of LLM](#tool-using-of-llm)
     - [Calibration of LLM](#calibration-of-llm)
@@ -59,6 +60,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Text Watermarking](#llm-for-text-watermarking)
     - [LLM for Math](#llm-for-math)
     - [LLM for Environmental Disciplines](#llm-for-environmental-disciplines)
+    - [LLM for Information Extraction](#llm-for-information-extraction)
   - [Star History](#star-history)
 
 

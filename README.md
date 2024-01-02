@@ -163,7 +163,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.02783.pdf) [[project]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
 
 ### Long-Context for LLM
-- Advancing Transformer Architecture in Long-Context Large Language  Models: A Comprehensive Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12351)
+- Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12351)
+- Length Extrapolation of Transformers: A Survey from the Perspective of Position Encoding, 2023.12 [[paper]](https://arxiv.org/abs/2312.17044)
 
 ### Factuality in LLM
 - A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity, 2023.10 [[paper]](https://arxiv.org/abs/2310.07521)[[project]](https://github.com/wangcunxiang/LLM-Factuality-Survey)
@@ -181,6 +182,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph, 2023.08 [[paper]](https://arxiv.org/pdf/2308.13534.pdf)
 
+### Self-Correction for LLM
+- Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies, 2023.08 [[paper]](https://arxiv.org/abs/2308.03188)[[project]](https://github.com/teacherpeterpan/self-correction-llm-papers)
+
 ### Attributions for LLM
 - A Survey of Large Language Models Attribution, 2023.11 [[paper]](https://arxiv.org/pdf/2311.03731)[[project]](https://github.com/HITsz-TMG/awesome-llm-attributions)
 
@@ -194,10 +198,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Agent of LLM
 - A Survey on Large Language Model based Autonomous Agents, 2023.08 [[paper]](https://arxiv.org/abs/2308.11432)[[project]](https://github.com/Paitesanshi/LLM-Agent-Survey)
-  
 - The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-
 - Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, 2023.12 [[paper]](https://arxiv.org/pdf/2312.11970.pdf)
+
 ### Vulnerabilities of LLM
 - Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
 
@@ -234,11 +237,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Code LLM
 - A Survey on Language Models for Code, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07989)[[project]](https://github.com/codefuse-ai/Awesome-Code-LLM)
-  
 - Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17903.pdf)[[project]](https://github.com/yueyueL/ReliableLM4Code)
-  
 - Large Language Models Meet NL2Code: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09420)
 - A Prompt Learning Framework for Source Code Summarization, 2023.12 [[paper]](https://arxiv.org/pdf/2312.16066.pdf)
+- If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents, 2024.01 [[paper]](https://arxiv.org/abs/2401.00812)
+
 ---
 
 ## LLM for Domain Application

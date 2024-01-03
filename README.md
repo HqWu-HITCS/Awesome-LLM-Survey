@@ -140,6 +140,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Cognitive Mirage: A Review of Hallucinations in Large Language Models, 2023.09 [[paper]](https://arxiv.org/paper/2309.06794.paper)[[project]](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)
 
 - Augmenting LLMs with Knowledge: A survey on hallucination prevention, 2023.09 [[paper]](https://arxiv.org/pdf/2309.16459.pdf)
+- A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models, 2024.01 [[paper]](https://arxiv.org/pdf/2401.01313.pdf)
 
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)

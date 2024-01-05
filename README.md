@@ -82,6 +82,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions, 2023.04 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)
 
 - A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges, 2023.10 [[paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24171183.v1)
+- Understanding LLMs: A Comprehensive Overview from Training to Inference, 2024.01 [[paper]](https://arxiv.org/pdf/2401.02038.pdf)
 ---
 
 ## Training of LLM

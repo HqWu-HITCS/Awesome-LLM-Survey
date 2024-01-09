@@ -59,7 +59,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Citation](#llm-for-citation)
     - [LLM for Text Watermarking](#llm-for-text-watermarking)
     - [LLM for Math](#llm-for-math)
-    - [LLM for Environmental Disciplines](#llm-for-environmental-disciplines)
+    - [LLM for Environ Disciplines](#llm-for-environ-disciplines)
     - [LLM for Information Extraction](#llm-for-information-extraction)
   - [Star History](#star-history)
 
@@ -274,6 +274,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Mental Health
 - A review of the explainability and safety of conversational agents for mental health to identify avenues for improvement, 2023.10 [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601652/)
 - Towards a Psychological Generalist AI: A Survey of Current Applications of Large Language Models and Future Prospects, 2023.12 [[paper]](https://arxiv.org/pdf/2312.04578.pdf)
+- Large Language Models in Mental Health Care: a Scoping Review, 2024.01 [[paper]](https://arxiv.org/pdf/2401.02984.pdf)
 
 ### LLM for Robotics
 -  Large Language Models for Robotics: A Survey, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07226.pdf)

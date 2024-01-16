@@ -1,6 +1,6 @@
 # Awesome-LLM-Survey
 
-[![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/HqWu-HITCS/Awesome-LLM-Survey) 
+[![Awesome LLM Survey](https://img.shields.io/static/v1?label=&message=Awesome+LLM+Survey&color=black&logo=awesomelists)](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)
 ![](https://img.shields.io/github/last-commit/HqWu-HITCS/Awesome-LLM-Survey?color=green)
 [![GitHub Repo stars](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-LLM-Survey?style=social)](https://github.com/luban-agi/Awesome-Domain-LLM)
 

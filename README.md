@@ -142,6 +142,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - Augmenting LLMs with Knowledge: A survey on hallucination prevention, 2023.09 [[paper]](https://arxiv.org/pdf/2309.16459.pdf)
 - A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models, 2024.01 [[paper]](https://arxiv.org/pdf/2401.01313.pdf)
+- Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment, 2023.08 [[paper]](https://arxiv.org/abs/2308.05374)
 
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)

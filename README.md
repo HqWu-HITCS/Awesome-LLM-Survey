@@ -37,6 +37,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Efficiency of LLM](#efficiency-of-llm)
     - [Data of LLM](#data-of-llm)
     - [Security and Privacy of LLM](#security-and-privacy-of-llm)
+    - [Continual Learning of LLM](#continual-learning-of-llm)
   - [Mulitmodal of LLM](#mulitmodal-of-llm)
     - [Visual LLM](#visual-llm)
     - [Audio LLM](#audio-llm)
@@ -86,7 +87,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ---
 
 ## Training of LLM
-
 
 ### Instruction Tuning
 - Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [[paper]](https://arxiv.org/pdf/2303.10475.pdf) [[project]](https://github.com/RenzeLou/awesome-instruction-learning)
@@ -146,6 +146,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Compression for LLM
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)
+- A Comprehensive Survey of Compression Algorithms for Language Models, 2024.01 [[paper](https://arxiv.org/pdf/2401.15347.pdf)]
 
 ### Evaluation of LLM
 - Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19736.pdf)[[project]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
@@ -216,12 +217,16 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)[[project]](https://github.com/tding1/Efficient-LLM-Survey)
 - Efficient Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.03863)[[project]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
 - Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment, 2023.12 [[paper]](https://arxiv.org/pdf/2312.12148.pdf)
+- A Survey on Hardware Accelerators for Large Language Models, 2024.01 [[paper](https://arxiv.org/pdf/2401.09890.pdf)]
 
 ### Data of LLM
 - Data Management For Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.01700)[[project]](https://github.com/ZigeW/data_management_LLM)
 
 ### Security and Privacy of LLM
 - A Survey on Large Language Model (LLM) Security and Privacy: The Good,  the Bad, and the Ugly, 2023.12 [[paper]](https://arxiv.org/pdf/2312.02003)
+
+### Continual Learning of LLM
+- Continual Learning with Pre-Trained Models: A Survey, 2024.01 [[paper]](https://arxiv.org/pdf/2401.16386) [[project]](https://github.com/sun-hailong/LAMDA-PILOT)
 
 ---
 

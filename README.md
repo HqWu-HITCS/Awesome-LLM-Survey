@@ -62,6 +62,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Math](#llm-for-math)
     - [LLM for Environmental Disciplines](#llm-for-environmental-disciplines)
     - [LLM for Information Extraction](#llm-for-information-extraction)
+    - [LLM for Data Annotation](#llm-for-data-annotation)
   - [Star History](#star-history)
 
 
@@ -90,8 +91,12 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Instruction Tuning
 - Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [[paper]](https://arxiv.org/pdf/2303.10475.pdf) [[project]](https://github.com/RenzeLou/awesome-instruction-learning)
+  
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
+  
 - Instruction Tuning for Large Language Models: A Survey, 2023.08 [[paper]](https://arxiv.org/abs/2308.10792)
+  
+- A Survey on Data Selection for LLM Instruction Tuning, 2024.02 [[paper]](https://arxiv.org/pdf/2402.05123.pdf)
 
 ### Human Alignment for LLM
 - AI Alignment: A Comprehensive Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.19852)[[project]](https://www.alignmentsurvey.com)
@@ -181,6 +186,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models, 2023.10 [[paper]](https://arxiv.org/pdf/2310.16570.pdf)
 
 ### Knowledge for LLM
+- A Survey on Knowledge Distillation of Large Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.13116.pdf)
+
 - Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges, 2023.11 [[paper]](https://arxiv.org/pdf/2311.15766)
 
 - Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications, 2023.11 [[paper]](https://arxiv.org/pdf/2311.05876.pdf)
@@ -209,18 +216,25 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - A Survey on Large Language Model based Autonomous Agents, 2023.08 [[paper]](https://arxiv.org/abs/2308.11432)[[project]](https://github.com/Paitesanshi/LLM-Agent-Survey)
 - The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 - Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, 2023.12 [[paper]](https://arxiv.org/pdf/2312.11970.pdf)
+- Large Multimodal Agents: A Survey, 2024.02 [[paper]](https://arxiv.org/pdf/2402.15116)[[project]](https://github.com/jun0wanan/awesome-large-multimodal-agents)
 
 ### Vulnerabilities of LLM
 - Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
 
 ### Efficiency of LLM
 - The Efficiency Spectrum of Large Language Models: An Algorithmic Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)[[project]](https://github.com/tding1/Efficient-LLM-Survey)
+  
 - Efficient Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.03863)[[project]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+  
 - Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment, 2023.12 [[paper]](https://arxiv.org/pdf/2312.12148.pdf)
+  
 - A Survey on Hardware Accelerators for Large Language Models, 2024.01 [[paper](https://arxiv.org/pdf/2401.09890.pdf)]
+
+- Model Compression and Efficient Inference for Large Language Models: A Survey, 2024.02 [[paper](https://arxiv.org/pdf/2402.09748.pdf)]
 
 ### Data of LLM
 - Data Management For Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.01700)[[project]](https://github.com/ZigeW/data_management_LLM)
+- A Survey on Data Selection for Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.16827.pdf)
 
 ### Security and Privacy of LLM
 - A Survey on Large Language Model (LLM) Security and Privacy: The Good,  the Bad, and the Ugly, 2023.12 [[paper]](https://arxiv.org/pdf/2312.02003)
@@ -293,6 +307,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### LLM for Recommendation
+- Foundation Models for Recommender Systems: A Survey and New Perspectives, 2024.02 [[paper]](https://arxiv.org/pdf/2402.11143.pdf)
 - User Modeling in the Era of Large Language Models: Current Research and Future Directions, 2023.12 [[paper]](https://doi.org/10.48550/arXiv.2312.11518)[[project]](https://github.com/TamSiuhin/LLM-UM-Reading)
 - A Survey on Large Language Models for Personalized and Explainable  Recommendations, 2023.11 [[paper]](https://arxiv.org/pdf/2311.12338)
 - Large Language Models for Generative Recommendation: A Survey and Visionary Discussions, 2023.09 [[paper]](https://arxiv.org/abs/2309.01157)
@@ -336,6 +351,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Information Extraction
 - Large Language Models for Generative Information Extraction: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.17617.pdf) [[project]](https://github.com/quqxui/Awesome-LLM4IE-Papers)
+
+### LLM for Data Annotation
+- Large Language Models for Data Annotation: A Survey, 2024.02 [[paper]](https://arxiv.org/pdf/2402.13446.pdf) [[project]](https://github.com/Zhen-Tan-dmml/LLM4Annotation)
+
 ## Star History
 
 <a href="https://star-history.com/#HqWu-HITCS/Awesome-LLM-Survey&Date">

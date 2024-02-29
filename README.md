@@ -235,6 +235,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Data of LLM
 - Data Management For Large Language Models: A Survey, 2023.12 [[paper]](https://arxiv.org/pdf/2312.01700)[[project]](https://github.com/ZigeW/data_management_LLM)
 - A Survey on Data Selection for Language Models, 2024.02 [[paper]](https://arxiv.org/pdf/2402.16827.pdf)
+- Datasets for Large Language Models: A Comprehensive Survey, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18041.pdf)[[project]](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
 
 ### Security and Privacy of LLM
 - A Survey on Large Language Model (LLM) Security and Privacy: The Good,  the Bad, and the Ugly, 2023.12 [[paper]](https://arxiv.org/pdf/2312.02003)

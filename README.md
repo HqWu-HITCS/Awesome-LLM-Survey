@@ -63,6 +63,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [LLM for Environmental Disciplines](#llm-for-environmental-disciplines)
     - [LLM for Information Extraction](#llm-for-information-extraction)
     - [LLM for Data Annotation](#llm-for-data-annotation)
+    - [LLM for Game](#llm-for-game)
   - [Star History](#star-history)
 
 
@@ -355,6 +356,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Data Annotation
 - Large Language Models for Data Annotation: A Survey, 2024.02 [[paper]](https://arxiv.org/pdf/2402.13446.pdf) [[project]](https://github.com/Zhen-Tan-dmml/LLM4Annotation)
+
+### LLM for Game
+- Large Language Models and Games: A Survey and Roadmap, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18659.pdf)
 
 ## Star History
 

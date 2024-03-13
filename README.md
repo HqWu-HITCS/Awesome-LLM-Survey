@@ -250,6 +250,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Visual LLM
+- The (R)Evolution of Multimodal Large Language Models: A Survey, 2024,02 [[paper]](https://arxiv.org/abs/2402.12451)
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
 - How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07594.pdf)
   

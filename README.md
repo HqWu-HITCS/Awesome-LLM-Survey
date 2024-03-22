@@ -360,6 +360,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Game
 - Large Language Models and Games: A Survey and Roadmap, 2024.02 [[paper]](https://arxiv.org/pdf/2402.18659.pdf)
+- A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges, 2024.03 [[paper]](https://arxiv.org/pdf/2403.10249.pdf) [[project]](https://github.com/BAAI-Agents/GPA-LM)
+
 
 ## Star History
 

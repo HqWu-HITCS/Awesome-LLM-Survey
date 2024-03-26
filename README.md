@@ -266,6 +266,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Sparks of large audio models: A survey and outlook, 2023.08 [[paper]](https://arxiv.org/pdf/2308.12792.pdf) [[project]](https://github.com/EmulationAI/awesome-large-audio-models)
 
 ### Code LLM
+- A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond, 2024.03 [[paper]](https://arxiv.org/abs/2403.14734)[[project]](https://github.com/QiushiSun/NCISurvey)
 - A Survey on Language Models for Code, 2023.11 [[paper]](https://arxiv.org/pdf/2311.07989)[[project]](https://github.com/codefuse-ai/Awesome-Code-LLM)
 - Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey, 2023.10 [[paper]](https://arxiv.org/pdf/2310.17903.pdf)[[project]](https://github.com/yueyueL/ReliableLM4Code)
 - Large Language Models Meet NL2Code: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09420)
